@@ -1,7 +1,7 @@
 # Title of Project
 ##### Subtitle
 
-#### By Jessica Fix
+#### By Jackson Cafazzo
 
 ## Description
 
@@ -20,7 +20,7 @@ HTML5, CSS3, Bootstrap, Mocha, Chai
 
 ### Legal
 
-Copyright (c) 2016, Jessica Fix
+Copyright (c) 2016, Jackson Cafazzo
 
 This software is licensed under the MIT license.
 
